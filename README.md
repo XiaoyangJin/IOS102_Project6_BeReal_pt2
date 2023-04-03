@@ -35,7 +35,7 @@ I implemented the limited time function but forget to post yesterday, so it is n
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/FX7H9OW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/FX7H9OW.gif
 
 ## Notes
 
