@@ -4,7 +4,7 @@ Submitted by: **XiaoyangJin**
 
 **Name of your app** is an app that allows users to post with pictures chosen from album or taken by camera
 
-Time spent: **15** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
