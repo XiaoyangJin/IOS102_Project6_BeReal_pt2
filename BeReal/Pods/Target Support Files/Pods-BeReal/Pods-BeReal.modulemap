@@ -1,0 +1,6 @@
+framework module Pods_BeReal {
+  umbrella header "Pods-BeReal-umbrella.h"
+
+  export *
+  module * { export * }
+}
