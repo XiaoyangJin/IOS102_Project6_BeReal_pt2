@@ -35,7 +35,7 @@ I implemented the limited time function but forget to post yesterday, so it is n
 
 Here's a walkthrough of implemented user stories:
 
-https://imgur.com/FX7H9OW.gif
+https://imgur.com/oV4E6US.gif
 
 ## Notes
 
