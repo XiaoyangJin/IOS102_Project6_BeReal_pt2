@@ -23,23 +23,24 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+I implemented the limited time function but forget to post yesterday, so it is not so apparent in the gif, but here's the related code, hope that can make some sence:
+        let yesterdayDate = Calendar.current.date(byAdding: .day, value: (-1), to: Date())!
+        let query = Post.query()
+            .include("user")
+            .order([.descending("createdAt")])
+            .where("createdAt" >= yesterdayDate)
+            .limit(10)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+<img src='https://imgur.com/FX7H9OW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+Just an odd error when I first build my project on my own device, but the error fixed automatically after I unplugged my phone from my computer.
 
 ## License
 
