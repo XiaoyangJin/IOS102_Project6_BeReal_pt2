@@ -2,7 +2,7 @@
 
 Submitted by: **XiaoyangJin**
 
-**Name of your app** is an app that allows users to post with pictures chosen from album or taken by camera
+**BeReal** is an app that allows users to post with pictures chosen from album or taken by camera
 
 Time spent: **6** hours spent in total
 
