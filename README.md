@@ -4,7 +4,7 @@ Submitted by: **XiaoyangJin**
 
 **BeReal** is an app that allows users to post with pictures chosen from album or taken by camera
 
-Time spent: **6** hours spent in total
+Time spent: **16** hours spent in total
 
 ## Required Features
 
@@ -38,8 +38,6 @@ Here's a walkthrough of implemented user stories:
 https://imgur.com/oV4E6US.gif
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 Just an odd error when I first build my project on my own device, but the error fixed automatically after I unplugged my phone from my computer.
 
 ## License
