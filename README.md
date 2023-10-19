@@ -37,8 +37,6 @@ Here's a walkthrough of implemented user stories:
 
 https://imgur.com/oV4E6US.gif
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="oV4E6US" data-context="false" ><a href="//imgur.com/oV4E6US"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 ## Notes
 
 Describe any challenges encountered while building the app.
